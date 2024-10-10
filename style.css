@@ -44,7 +44,7 @@ font-family: Arial, Helvetica, sans-serif;
 }
 
 .parallax {
-    background-image: url("../Imagenes//imagenDePlanta.jpg");
+    background-image: url("./Imagenes//imagenDePlanta.jpg");
     height: 100%;
     background-attachment: fixed;
     background-position: center;
